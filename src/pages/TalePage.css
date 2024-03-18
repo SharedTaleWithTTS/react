@@ -1,0 +1,22 @@
+TalePage.css
+
+.playing {
+    font-weight: bold;
+    color: red; /* 재생 중인 문장을 강조하기 위한 스타일입니다. */
+}
+
+#play-button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+#pause-button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    cursor: pointer;
+    display: none; /* 일시정지 버튼은 처음에는 숨겨집니다. */
+}
+

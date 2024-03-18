@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "타이틀",
+      "subTitle": "설명",
+      "image": "penguin.jpg",
+      "alt": "penguin",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "가족과 함께하는..",
+      "subTitle": "     하하하",
+      "image": "home01.jpg",
+      "alt": "homeee",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "fairy tale",
+      "subTitle": "동화 TTS",
+      "image": "home02.jpg",
+      "alt": "tale",
+      "direction": "row"
+    }
+]
